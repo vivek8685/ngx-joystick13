@@ -19,11 +19,11 @@
       "dom"
     ],
     "paths": {
-      "ngx-joystick": [
-        "dist/ngx-joystick"
+      "ngx-joystick13": [
+        "dist/ngx-joystick13"
       ],
-      "ngx-joystick/*": [
-        "dist/ngx-joystick/*"
+      "ngx-joystick13/*": [
+        "dist/ngx-joystick13/*"
       ],
     }
   },

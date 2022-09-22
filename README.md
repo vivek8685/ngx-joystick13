@@ -29,7 +29,7 @@ https://www.npmjs.com/package/ngx-joystick
 
 Import `NgxJoystickModule` in your module. For example,
 ```typescript
-import { NgxJoystickModule } from 'ngx-joystick';  <--- Added
+import { NgxJoystickModule } from 'ngx-joystick13';  <--- Added
 
 @NgModule({
   declarations: [
@@ -55,7 +55,7 @@ Then see `src/app` files for usage. Make sure to look at the css as well.
 ng build -c production
 ``` 
 2) Navigate to the `/dist` directory
-2) Add `<base href="ngx-joystick">` to the `index.html`
+2) Add `<base href="ngx-joystick13">` to the `index.html`
 3) Make a new file called `404.html` and copy the contents of `index.html` into it
 4) Copy the contents of the `/dist` directory into the `/docs` directory
 5) Commit/Push the new `/docs` directory to master branch
