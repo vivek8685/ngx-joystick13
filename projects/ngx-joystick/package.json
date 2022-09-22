@@ -1,0 +1,27 @@
+{
+  "name": "ngx-joystick",
+  "version": "1.0.7",
+  "description": "NgxJoystick is an angular joystick component upgraded version of Wes Weitzel's NgxJoystick(https://github.com/wweitzel/ngx-joystick.git) package for angular 13. It is a wrapper around the nipplejs library providing virtual joystick functionality to your angular application.",
+  "author": "Vivek Sharma",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vivek8685/ngx-joystick13.git"
+  },
+  "keywords": [
+    "angular",
+    "javascript",
+    "typescript",
+    "component",
+    "joystick",
+    "nipplejs"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "nipplejs": "^0.8.5",
+    "tslib": "^2.0.0"
+  },
+  "peerDependencies": {
+    "@angular/common": "~13.3.11",
+    "@angular/core": "~13.3.11"
+  }
+}
